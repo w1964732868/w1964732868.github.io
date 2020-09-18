@@ -108,4 +108,4 @@ theme: hacker
 deploy:
   type: 'git'
   repo: https://github.com/w1964732868/w1964732868.github.io.git
- ## branch: master
+  branch: None
