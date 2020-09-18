@@ -99,13 +99,13 @@ ignore:
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 ##theme: landscape
-##theme: yilia
+theme: yilia
 ##theme: architect
-theme: hacker
+##theme: hacker
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: 'git'
   repo: https://github.com/w1964732868/w1964732868.github.io.git
-  branch: None
+ ## branch: None
